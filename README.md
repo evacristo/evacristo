@@ -1,6 +1,4 @@
 - Hi, I’m @evacristo
-- I’m interested in making 6 million pizzas using only 4 ovens
-- I’m currently learning how to do the above depicted interest
 
 
 <!---
